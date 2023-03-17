@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Netuno {
+class Netuno extends PlanetaBase {
+    public Netuno() {
+        super("Netuno", 1.12);
+    }
 }

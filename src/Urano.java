@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Urano {
+class Urano extends PlanetaBase {
+    public Urano() {
+        super("Urano", 0.92);
+    }
 }

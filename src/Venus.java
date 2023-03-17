@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Venus {
+class Venus extends PlanetaBase {
+    public Venus() {
+        super("Vênus", 0.91);
+    }
 }

@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Jupiter {
+class Jupiter extends PlanetaBase {
+    public Jupiter() {
+        super("Júpiter", 2.34);
+    }
 }

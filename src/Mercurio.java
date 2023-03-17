@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Mercurio {
+class Mercurio extends PlanetaBase {
+    public Mercurio() {
+        super("Mercúrio", 0.38);
+    }
 }
